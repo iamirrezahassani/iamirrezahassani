@@ -84,3 +84,19 @@ SEO specialist focused on technical optimization, search analytics, WordPress, a
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="Google Analytics"/>
   <img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white" alt="Google Tag Manager"/>
 </p>
+
+
+## GitHub Activity
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=iamirrezahassani&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F86B45&icon_color=F86B45&text_color=FFFFFF"
+    height="170"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamirrezahassani&layout=compact&hide_border=true&bg_color=0D1117&title_color=F86B45&text_color=FFFFFF"
+    height="170"
+    alt="Most used languages"
+  />
+</div>
