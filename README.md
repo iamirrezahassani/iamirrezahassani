@@ -65,3 +65,22 @@ SEO specialist focused on technical optimization, search analytics, WordPress, a
     />
   </picture>
 </div>
+
+
+
+## Expertise
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Technical_SEO-1B3663?style=for-the-badge" alt="Technical SEO"/>
+  <img src="https://img.shields.io/badge/SEO_Analytics-1B3663?style=for-the-badge" alt="SEO Analytics"/>
+  <img src="https://img.shields.io/badge/CRO-F86B45?style=for-the-badge" alt="CRO"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" alt="Elementor"/>
+  <img src="https://img.shields.io/badge/Google_Search_Console-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white" alt="Google Search Console"/>
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="Google Analytics"/>
+  <img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white" alt="Google Tag Manager"/>
+</p>
